@@ -17,6 +17,8 @@
 @property (weak, nonatomic) IBOutlet UILabel *titleLabel;
 @property (weak, nonatomic) IBOutlet UITextView *descTextView;
 
+// neka izmena bilo kakva izmena samo da je ima zbog gita
+
 
 @end
 
